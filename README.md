@@ -20,6 +20,7 @@ One error per video, every real cause reproduced on a real cluster and fixed liv
 
 | Video | Length | Lab files |
 |---|---|---|
+| [kubectl drain Blocked by a PodDisruptionBudget: Every Cause, Fixed Live](https://youtu.be/s2DACOfRuUk) | 23:44 | [`pdbdrain/`](https://github.com/chaitanyakatari/ckthedevopsguy-labs/tree/main/pdbdrain) |
 | [ImagePullBackOff: Every Cause, Reproduced and Fixed Live](https://youtu.be/Q9iivK18sqQ) | 20:21 | [`imagepullbackoff/`](https://github.com/chaitanyakatari/ckthedevopsguy-labs/tree/main/imagepullbackoff) |
 | [Pod Stuck in Pending: Every Cause, Reproduced and Fixed Live](https://youtu.be/r_57sxRIfaE) | 21:10 | [`pending/`](https://github.com/chaitanyakatari/ckthedevopsguy-labs/tree/main/pending) |
 | [CreateContainerConfigError: Every Cause, Reproduced and Fixed Live](https://youtu.be/bpZgjtk2178) | 14:57 | [`createcontainerconfigerror/`](https://github.com/chaitanyakatari/ckthedevopsguy-labs/tree/main/createcontainerconfigerror) |
