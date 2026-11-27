@@ -14,20 +14,25 @@
 
 ---
 
-### 🎬 Latest on YouTube
+### 🎬 Kubernetes errors, fixed live
 
-<a href="https://youtu.be/wVieweYn-cM"><img src="https://img.youtube.com/vi/wVieweYn-cM/maxresdefault.jpg" width="480" align="right" alt="Kubernetes CrashLoopBackOff: 6 real causes, broken and fixed live"></a>
+One error per video, every real cause reproduced on a real cluster and fixed live. **[Watch the whole playlist ▶](https://www.youtube.com/playlist?list=PLdj84NbgQpm8)**
 
-**[Kubernetes CrashLoopBackOff: 6 Real Causes, Broken and Fixed Live](https://youtu.be/wVieweYn-cM)**
-
-I break a real service six different ways and fix every one live: renamed secret keys,
-OOMKilled, bad liveness probes, missing dependencies and more.
-
-📂 Follow along with the lab files:
-[ckthedevopsguy-labs](https://github.com/chaitanyakatari/ckthedevopsguy-labs/tree/main/crashloopbackoff)
-🐳 `docker pull ckthedevopsguy/orders-api:1.4.2`
-
-<br clear="right">
+| Video | Length | Lab files |
+|---|---|---|
+| [ImagePullBackOff: Every Cause, Reproduced and Fixed Live](https://youtu.be/Q9iivK18sqQ) | 20:21 | [`imagepullbackoff/`](https://github.com/chaitanyakatari/ckthedevopsguy-labs/tree/main/imagepullbackoff) |
+| [Pod Stuck in Pending: Every Cause, Reproduced and Fixed Live](https://youtu.be/r_57sxRIfaE) | 21:10 | [`pending/`](https://github.com/chaitanyakatari/ckthedevopsguy-labs/tree/main/pending) |
+| [CreateContainerConfigError: Every Cause, Reproduced and Fixed Live](https://youtu.be/bpZgjtk2178) | 14:57 | [`createcontainerconfigerror/`](https://github.com/chaitanyakatari/ckthedevopsguy-labs/tree/main/createcontainerconfigerror) |
+| [Readiness Probe Failed (Running but 0/1 READY): Every Cause, Fixed Live](https://youtu.be/7SBmD49nmiE) | 16:34 | [`readinessprobe/`](https://github.com/chaitanyakatari/ckthedevopsguy-labs/tree/main/readinessprobe) |
+| [Service Not Reachable: Every Cause, Reproduced and Fixed Live](https://youtu.be/FU7Ysfl8gZw) | 17:18 | [`servicenotreachable/`](https://github.com/chaitanyakatari/ckthedevopsguy-labs/tree/main/servicenotreachable) |
+| [DNS Failures (Could not resolve host): Every Cause, Fixed Live](https://youtu.be/cLwmaKqMT4o) | 12:59 | [`dns/`](https://github.com/chaitanyakatari/ckthedevopsguy-labs/tree/main/dns) |
+| [PVC Stuck in Pending: Every Cause, Reproduced and Fixed Live](https://youtu.be/X_J2yib00B0) | 12:53 | [`pvcpending/`](https://github.com/chaitanyakatari/ckthedevopsguy-labs/tree/main/pvcpending) |
+| [Node NotReady: Every Cause, Reproduced and Fixed Live](https://youtu.be/kBOQxasTQP4) | 7:49 | [`nodenotready/`](https://github.com/chaitanyakatari/ckthedevopsguy-labs/tree/main/nodenotready) |
+| [RBAC "forbidden": Every Cause, Reproduced and Fixed Live](https://youtu.be/LdSjAUdjD7M) | 14:42 | [`rbacforbidden/`](https://github.com/chaitanyakatari/ckthedevopsguy-labs/tree/main/rbacforbidden) |
+| [Pod Stuck in Terminating: Every Cause, Reproduced and Fixed Live](https://youtu.be/WociR47yGRU) | 10:35 | [`terminating/`](https://github.com/chaitanyakatari/ckthedevopsguy-labs/tree/main/terminating) |
+| [HPA Not Scaling (unknown targets): Every Cause, Fixed Live](https://youtu.be/X7rBvGi6ujc) | 12:47 | [`hpa/`](https://github.com/chaitanyakatari/ckthedevopsguy-labs/tree/main/hpa) |
+| [CronJob Not Running: Every Cause, Reproduced and Fixed Live](https://youtu.be/UQbU7HyRkwQ) | 12:47 | [`cronjob/`](https://github.com/chaitanyakatari/ckthedevopsguy-labs/tree/main/cronjob) |
+| [CrashLoopBackOff: 6 Real Causes, Broken and Fixed Live](https://youtu.be/wVieweYn-cM) | 19:25 | [`crashloopbackoff/`](https://github.com/chaitanyakatari/ckthedevopsguy-labs/tree/main/crashloopbackoff) |
 
 ---
 
